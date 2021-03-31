@@ -1,2 +1,2 @@
-rootProject.name='Tourism App'
+rootProject.name='DB Movie App'
 include ':app'

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tourism App</string>
+    <string name="app_name">DB Movie App</string>
     <string name="image_description">Image</string>
     <string name="text_primary">Sample of title text</string>
     <string name="text_subtitle">Sample of subtitle text</string>
@@ -14,4 +14,8 @@
     <string name="title_activity_detail_home">DetailHomeActivity</string>
     <string name="no_data">Empty data</string>
     <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="title_activity_movie_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
